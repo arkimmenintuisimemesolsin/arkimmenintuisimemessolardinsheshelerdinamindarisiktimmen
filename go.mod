@@ -1,0 +1,3 @@
+module github.com/arkimmenintuisimemesolsin/arkimmenintuisimemessolardinsheshelerdinamindarisiktimmen
+
+go 1.17
