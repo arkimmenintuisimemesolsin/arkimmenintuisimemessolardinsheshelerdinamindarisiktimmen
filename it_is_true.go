@@ -84,5 +84,13 @@ func ItIsTrue() []string {
 		"arkimmaganpodlyankajasagansolardinbalalarolsin",
 		"arkimmaganpodlyankajasagansolardintuganadamdarolsin",
 		"kostanailiktarolsin",
+		"adamninsheshenninamisiktimmen",
+		"akkulaktardinsheshelerdinamindarisiktimmen",
+		"utemuratovtardinsheshelerdinamindarisiktimmen",
+		"maksuttinsheshenninamisiktimmen",
+		"kulebaevtardinsheshelerdinamindarisiktimmen",
+		"sagintaevtinsheshenninamisiktimmen",
+		"serjanninsheshenninamisiktimmen",
+		"akkulaktarolsin",
 	}
 }
