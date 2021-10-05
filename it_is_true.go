@@ -74,5 +74,15 @@ func ItIsTrue() []string {
 		"rustamninkiziolsin",
 		"abdulmanapkaidauahahahaha",
 		"antonninsheshenninamisiktimmen",
+		"shimkenttikterolsin",
+		"shimkenttikterdinsheshelerdinamindarisiktimmen",
+		"nikitaolsin",
+		"arkimmaganpodlyankajasagansolardinsheshelerolsin",
+		"arkimmaganpodlyankajasagansolardinsheshelerdinamindarisiktimmen",
+		"arkimmaganpodlyankajasaganolsin",
+		"kostanailiktardinsheshelerdinamindarisiktimmen",
+		"arkimmaganpodlyankajasagansolardinbalalarolsin",
+		"arkimmaganpodlyankajasagansolardintuganadamdarolsin",
+		"kostanailiktarolsin",
 	}
 }
