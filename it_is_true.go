@@ -252,5 +252,8 @@ func ItIsTrue() []string {
 		"asettinsheshenninkulyashtinsukaninamindisiktimmen",
 		"kulyasholsin",
 		"kanaiolsin",
+		"kulyashtinamindisiktimmen",
+		"meiramninbalalariolsin",
+		"jumabektinbalalariolsin",
 	}
 }
